@@ -18,7 +18,7 @@ Our model DTP is illustrated below:
 
 - Clone this repo:
 ```
-git clone https://github.com/sunshower76/Deep_Trainslation_Prior
+git clone https://github.com/sunshower76/Deep_Translation_Prior
 cd Deep_Translation_Prior
 ```
 
