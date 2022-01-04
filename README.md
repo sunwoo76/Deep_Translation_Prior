@@ -1,4 +1,4 @@
-# Official implementation of DTP
+# Official implementation of DTP(AAAI'22)
 
 This is the official implementation of our paper :
 
