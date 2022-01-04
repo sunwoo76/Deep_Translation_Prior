@@ -34,7 +34,11 @@ cd Deep_Translation_Prior
 bash optimizer.sh
 ```
 
-We borrow code from public projects (huge thanks to all the projects). We mainly borrow code from  [CUT](https://github.com/taesungp/contrastive-unpaired-translation)
+## Acknowledgement
+We borrow codes and datasets from public projects. We mainly borrow code from  [CUT](https://github.com/taesungp/contrastive-unpaired-translation)
+
+You can download the datasets used in this paper from [WCT2](https://github.com/clovaai/WCT2), [StyleNas](https://github.com/pkuanjie/StyleNAS),  [FFHQ](https://github.com/NVlabs/ffhq-dataset), [CelebA-HQ](https://github.com/tkarras/progressive_growing_of_gans)
+
 ### BibTeX
 If you find this research useful, please consider citing:
 ````BibTeX
