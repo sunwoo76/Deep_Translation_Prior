@@ -15,9 +15,12 @@ Our model DTP is illustrated below:
 ![alt text](/images/network.png)
 
 ## Example Results
-<center><img src="images/gif/result1.gif" width="160px" class="center"/> <img src="images/gif/result2.gif" width="160px" class="center"/> <img src="images/gif/result4.gif" width="160px" class="center"/> <img src="images/gif/result5.gif" width="160px" class="center"/> <img src="images/gif/result6.gif" width="160px" class="center"/></center>
+<p align="center">
+  <img src="images/gif/result1.gif" width="160px"/> <img src="images/gif/result2.gif" width="160px"/> <img src="images/gif/result4.gif" width="160px"/> <img src="images/gif/result5.gif" width="160px"/> <img src="images/gif/result6.gif" width="160px"/>
+</p>
 
-<center><img src="images/gif/presult1.gif" width="160px" class="center"/> <img src="images/gif/presult3.gif" width="160px" class="center"/> <img src="images/gif/presult5.gif" width="160px" class="center"/> <img src="images/gif/presult6.gif" width="160px" class="center"/> <img src="images/gif/presult7.gif" width="160px" class="center"/></center>
+<p align="center"><img src="images/gif/presult1.gif" width="160px"/> <img src="images/gif/presult3.gif" width="160px"/> <img src="images/gif/presult5.gif" width="160px"/> <img src="images/gif/presult6.gif" width="160px"/> <img src="images/gif/presult7.gif" width="160px"/>
+</p>
 
 ## Getting started
 - Clone this repo
