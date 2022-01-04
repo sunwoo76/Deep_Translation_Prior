@@ -4,7 +4,7 @@ This is the official implementation of our paper :
 
 **Deep Translation Prior: Test-time Training for Photorealistic Style Transfer(AAAI 2022)**
 
-Authors: Sunwoo Kim, Soohyun Kim and Seungryong Kim
+Authors: Sunwoo Kim, Soohyun Kim and [Seungryong Kim](https://seungryong.github.io/)
 
 You can check out the paper on [[arXiv](https://arxiv.org/abs/2112.06150)].
 
