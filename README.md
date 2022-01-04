@@ -37,7 +37,7 @@ bash optimizer.sh
 ## Acknowledgement
 We borrow codes and datasets from public projects. We mainly borrow code from  [CUT](https://github.com/taesungp/contrastive-unpaired-translation)
 
-You can download the datasets used in this paper from [WCT2](https://github.com/clovaai/WCT2), [StyleNas](https://github.com/pkuanjie/StyleNAS),  [FFHQ](https://github.com/NVlabs/ffhq-dataset), [CelebA-HQ](https://github.com/tkarras/progressive_growing_of_gans)
+You can download the datasets used in this paper from the github repositories of [WCT2](https://github.com/clovaai/WCT2), [StyleNas](https://github.com/pkuanjie/StyleNAS),  [FFHQ](https://github.com/NVlabs/ffhq-dataset) and [CelebA-HQ](https://github.com/tkarras/progressive_growing_of_gans)
 
 ## Citation
 If you find this research useful, please consider citing:
