@@ -14,9 +14,21 @@ Our model DTP is illustrated below:
 
 ![alt text](/images/network.png)
 
-## Getting started
+## Example Results
+<img src="images/gif/result1.gif" width="400px"/>
+<img src="images/gif/result2.gif" width="400px"/>
+<img src="images/gif/result3.gif" width="400px"/>
+<img src="images/gif/result4.gif" width="400px"/>
+<img src="images/gif/result5.gif" width="400px"/>
 
-- Clone this repo:
+<img src="images/gif/presult1.gif" width="400px"/>
+<img src="images/gif/presult2.gif" width="400px"/>
+<img src="images/gif/presult3.gif" width="400px"/>
+<img src="images/gif/presult4.gif" width="400px"/>
+<img src="images/gif/presult5.gif" width="400px"/>
+
+## Getting started
+- Clone this repo
 ```
 git clone https://github.com/sunshower76/Deep_Translation_Prior
 cd Deep_Translation_Prior
@@ -26,9 +38,6 @@ cd Deep_Translation_Prior
 ```
 bash optimizer.sh
 ```
-
-## Example Results
-
 
 We borrow code from public projects (huge thanks to all the projects). We mainly borrow code from  [CUT](https://github.com/taesungp/contrastive-unpaired-translation)
 ### BibTeX
