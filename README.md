@@ -16,24 +16,24 @@ Our model DTP is illustrated below:
 
 ## Example Results
 <p align="center">
-  <b>Content<\b> <img src="images/content/result1_c.png" width="160px"/> <img src="images/content/result2_c.png" width="160px"/> <img src="images/content/result4_c.png" width="160px"/> <img src="images/content/result5_c.png" width="160px"/> <img src="images/content/result6_c.png" width="160px"/>
+<img src="images/content.png" width="130px"/>  <img src="images/content/result1_c.png" width="130px"/> <img src="images/content/result2_c.png" width="130px"/> <img src="images/content/result4_c.png" width="130px"/> <img src="images/content/result5_c.png" width="130px"/> <img src="images/content/result6_c.png" width="130px"/>
 </p>
 <p align="center">
-  <img src="images/style/result1_s.png" width="160px"/> <img src="images/style/result2_s.png" width="160px"/> <img src="images/style/result4_s.png" width="160px"/> <img src="images/style/result5_s.png" width="160px"/> <img src="images/style/result6_s.png" width="160px"/>
+ <img src="images/style.png" width="130px"/><img src="images/style/result1_s.png" width="130px"/> <img src="images/style/result2_s.png" width="130px"/> <img src="images/style/result4_s.png" width="130px"/> <img src="images/style/result5_s.png" width="130px"/> <img src="images/style/result6_s.png" width="130px"/>
 </p>
 <p align="center">
-  <img src="images/gif/result1.gif" width="160px"/> <img src="images/gif/result2.gif" width="160px"/> <img src="images/gif/result4.gif" width="160px"/> <img src="images/gif/result5.gif" width="160px"/> <img src="images/gif/result6.gif" width="160px"/>
+<img src="images/result.png" width="130px"/> <img src="images/gif/result1.gif" width="130px"/> <img src="images/gif/result2.gif" width="130px"/> <img src="images/gif/result4.gif" width="130px"/> <img src="images/gif/result5.gif" width="130px"/> <img src="images/gif/result6.gif" width="130px"/>
 </p>
 
 
 
 <p align="center">
-  <b>Style<\b> <img src="images/content/presult1_c.png" width="160px"/> <img src="images/content/presult3_c.png" width="160px"/> <img src="images/content/presult5_c.png" width="160px"/> <img src="images/content/presult6_c.png" width="160px"/> <img src="images/content/presult7_c.png" width="160px"/>
+<img src="images/content.png" width="160px"/> <b>Style<\b> <img src="images/content/presult1_c.png" width="160px"/> <img src="images/content/presult3_c.png" width="160px"/> <img src="images/content/presult5_c.png" width="160px"/> <img src="images/content/presult6_c.png" width="160px"/> <img src="images/content/presult7_c.png" width="160px"/>
 </p>
 <p align="center">
-  <img src="images/style/presult1_s.png" width="160px"/> <img src="images/style/presult3_s.png" width="160px"/> <img src="images/style/presult5_s.png" width="160px"/> <img src="images/style/presult6_s.png" width="160px"/> <img src="images/style/presult7_s.png" width="160px"/>
+<img src="images/style.png" width="130px"/> <img src="images/style/presult1_s.png" width="130px"/> <img src="images/style/presult3_s.png" width="130px"/> <img src="images/style/presult5_s.png" width="130px"/> <img src="images/style/presult6_s.png" width="130px"/> <img src="images/style/presult7_s.png" width="130px"/>
 </p>
-<p align="center"><img src="images/gif/presult1.gif" width="160px"/> <img src="images/gif/presult3.gif" width="160px"/> <img src="images/gif/presult5.gif" width="160px"/> <img src="images/gif/presult6.gif" width="160px"/> <img src="images/gif/presult7.gif" width="160px"/>
+<img src="images/result.png" width="130px"/> <p align="center"><img src="images/gif/presult1.gif" width="130px"/> <img src="images/gif/presult3.gif" width="130px"/> <img src="images/gif/presult5.gif" width="130px"/> <img src="images/gif/presult6.gif" width="130px"/> <img src="images/gif/presult7.gif" width="130px"/>
 </p>
 
 
