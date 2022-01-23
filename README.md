@@ -28,7 +28,7 @@ Our model DTP is illustrated below:
 
 
 <p align="center">
-<img src="images/content.png" width="160px"/> <b>Style<\b> <img src="images/content/presult1_c.png" width="160px"/> <img src="images/content/presult3_c.png" width="160px"/> <img src="images/content/presult5_c.png" width="160px"/> <img src="images/content/presult6_c.png" width="160px"/> <img src="images/content/presult7_c.png" width="160px"/>
+<img src="images/content.png" width="130px"/> <img src="images/content/presult1_c.png" width="130px"/> <img src="images/content/presult3_c.png" width="130px"/> <img src="images/content/presult5_c.png" width="130px"/> <img src="images/content/presult6_c.png" width="130px"/> <img src="images/content/presult7_c.png" width="130px"/>
 </p>
 <p align="center">
 <img src="images/style.png" width="130px"/> <img src="images/style/presult1_s.png" width="130px"/> <img src="images/style/presult3_s.png" width="130px"/> <img src="images/style/presult5_s.png" width="130px"/> <img src="images/style/presult6_s.png" width="130px"/> <img src="images/style/presult7_s.png" width="130px"/>
