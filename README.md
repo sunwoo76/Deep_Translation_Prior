@@ -16,7 +16,7 @@ Our model DTP is illustrated below:
 
 ## Example Results
 <p align="center">
-<img src="images/result_1.gif" width="400px"/> <img src="images/result_2.gif" width="400px"/>
+<img src="images/gif/result_1.gif" width="400px"/> <img src="images/gif/result_2.gif" width="400px"/>
  </p>
 <!-- <p align="center">
 <img src="images/content.png" width="130px"/>  <img src="images/content/result1_c.png" width="130px"/> <img src="images/content/result2_c.png" width="130px"/> <img src="images/content/result4_c.png" width="130px"/> <img src="images/content/result5_c.png" width="130px"/> <img src="images/content/result6_c.png" width="130px"/>
